@@ -2,8 +2,8 @@ import os
 from azure.storage.blob import BlockBlobService
 import pandas as pd
 
-ACCOUNT_NAME = 'stwcoepdmblob01prd'
-ACCOUNT_KEY = 'WaFb3erVVDXa/hev4mHU1Db6V9u0a/+7i2+Ql+QXIfgiPZPz0p1uJFHbeFuYDUjLoyl2XUEIKck+i+cFpOkguw=='
+ACCOUNT_NAME = ''
+ACCOUNT_KEY = ''
 CONTAINER_NAME = 'raw-data'
 block_blob_service = BlockBlobService(account_name=ACCOUNT_NAME, account_key=ACCOUNT_KEY)
 
