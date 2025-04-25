@@ -1,0 +1,541 @@
+{
+    "RS01-SC-301A": {},
+    "RS01-SC-301B": {},
+    "RS01-SC-302A": {
+        "2009-07-06": {
+            "Descricao": "sanar vazamento de oleo-substituir selo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000194175",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-09-25": {
+            "Descricao": "subs. valvulas descarga do 2o estagio",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000206439",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-12-11": {
+            "Descricao": "c302 a  falha na valvula do reciclo",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000217970",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-03-11": {
+            "Descricao": "sc302a vazamento jw pela resistencia el.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000227850",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-04-03": {
+            "Descricao": "c302a vaz. gas tampa 2o estagio pqt.214",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000230190",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-07-30": {
+            "Descricao": "c302a vazamento mangote 1 estagio",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000241897",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-08-21": {
+            "Descricao": "c302a com vazamento na tampa lado oeste",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000245133",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-11-10": {
+            "Descricao": "subst valvulas desc 2o est e limp.camisa",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000269814",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-10-09": {
+            "Descricao": "cal - vazamento de jw",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000323892",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-03-13": {
+            "Descricao": "i - valvula lv3401 trancada aberta.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000355888",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-07-08": {
+            "Descricao": "queda do compressor /  gas de reciclo.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000381826",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-11-12": {
+            "Descricao": "i- pk302a-falha indicacao temperatura.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000410157",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-01-19": {
+            "Descricao": "temperatura dos compressores alarmando.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000426937",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-02-22": {
+            "Descricao": "m-c302a-temperatura alta.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000435318",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-04-13": {
+            "Descricao": "revisao geral temperatura alta descarga",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000449954",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-07-02": {
+            "Descricao": "t-c302a vazto de oleo lado leste.",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "93000471552",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2014-02-25": {
+            "Descricao": "c-302a sem indicacao temperatura / sdcd.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000471473",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-07-30": {
+            "Descricao": "vaz-hc-c302a",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000895310",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-08-20": {
+            "Descricao": "sc302a passagem na valv. entre filtros",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000902375",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-08-29": {
+            "Descricao": "c302a - vazamento de oleo.",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "93000905198",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-09-19": {
+            "Descricao": "vazamento de jw",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000912109",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-04-24": {
+            "Descricao": "temperatura alta descarga 2nd stg",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000615348",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-05-10": {
+            "Descricao": "c302a vazamento hc flange descarga 2est",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000617583",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-08-06": {
+            "Descricao": "vaz-hc-sc302a",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000633172",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-08-07": {
+            "Descricao": "c302a: vazamento de gas na descarga.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000633736",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-08-22": {
+            "Descricao": "lv3401: vazamento na gaxeta da valvula.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000638595",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-09-27": {
+            "Descricao": "c302a - dreno da descarga com vazamento.",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000651779",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-09-29": {
+            "Descricao": "pk302a valvula de decarga c/ passagem",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000652801",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2019-01-16": {
+            "Descricao": "ml-nivel baixo de oleo no carter.",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000692970",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2019-02-05": {
+            "Descricao": "vaz-hc-pk302a",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000701244",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-04-15 00:00:00": {
+            "Descricao": "revisao geral temperatura alta descarga",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "93000449954",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "2016-03-01 00:00:00": {
+            "Descricao": "verificar valvulas 2o est com temp alta",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "96000119041",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "2018-04-24 00:00:00": {
+            "Descricao": "temperatura alta descarga do 2 estagio",
+            "Modo de Falha": "Falha no conjunto de valvulas",
+            "Nota": "91000615348",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "0": {
+            "Descricao": "parou por vibracao alta",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000625408",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "2016-04-05": {
+            "Descricao": "temperatura alta descarga - folga camisa",
+            "Modo de Falha": "Folga entre camisa e pistao",
+            "Nota": "93000746899",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-06-08": {
+            "Descricao": "c 302 a: nivel baixo de oleo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000190076",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-09-23": {
+            "Descricao": "falta o'ring de um dos filtros oleo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000205946",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-03-14": {
+            "Descricao": "c302a- visor de nivel de oleo inoperante",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "93000739894",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-08-01": {
+            "Descricao": "ml-nivel baixo oleo do carter.",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000632023",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-10-01": {
+            "Descricao": "ml-repor nivel de oleo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000653360",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-10-02": {
+            "Descricao": "ml-c302a nivel de oleo baixo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000653689",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-11-04": {
+            "Descricao": "ml-nivel baixo de oleo",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000665896",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2019-03-10": {
+            "Descricao": "pressao alta de oleo na bomba principal",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000715043",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2019-05-20": {
+            "Descricao": "ml-c302a - nivel baixo oleo mancal.",
+            "Modo de Falha": "Eficiencia energetica do motor",
+            "Nota": "91000744391",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-05-28": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000317766",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-07-02": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000332893",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2009-10-06": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000377326",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-01-28": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000431086",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-06-02": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000494445",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-08-15": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000530912",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-11-07": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000577468",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2010-12-22": {
+            "Descricao": "verificar queda por vibracao alta.",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "91000276042",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-01-31": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000625735",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-04-24": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000670063",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-07-31": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000724827",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-10-11": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000766040",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2011-12-28": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000806439",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-03-25": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000856966",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-07-03": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000914227",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-09-01": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000944131",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-10-31": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98000980109",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2012-12-22": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001012024",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-06-08": {
+            "Descricao": "c302a alarme de vibracao alta no 1oestag",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000465329",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-06-17": {
+            "Descricao": "retrabalho - vibracao e ruido anormal",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000467359",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-07-31": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001145415",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-11-07": {
+            "Descricao": "compressor desarmou por vibracao 1o esta",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000503864",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2014-02-04": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001271914",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2014-08-10": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001409714",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2014-11-09": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001485291",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-01-07": {
+            "Descricao": "parou por vibracao alta",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000625408",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-02-11": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001573678",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-04-19": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001616545",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-06-18": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001657641",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-09-19": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001746965",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2015-12-13": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001816306",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-03-10": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001886720",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-05-01": {
+            "Descricao": "c302a -> alarmando vibracao no 1o estagi",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000754065",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-05-28": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001942716",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-07-27": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98001993943",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2016-11-03": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002080307",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-03-12": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002195591",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2017-10-15": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002439198",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-02-05": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002599693",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-07-18": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002743153",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-09-08": {
+            "Descricao": "reaperto de suportes e parafusos de fixa",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "98002797215",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2018-10-26": {
+            "Descricao": "suporte spsv-3401 sem parafusos",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "91000663140",
+            "Fonte": "Notas de Manutencao SAP"
+        },
+        "2013-06-17 00:00:00": {
+            "Descricao": "retrabalho - vibracao e ruido anormal",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000467359",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "2016-05-04 00:00:00": {
+            "Descricao": "c302a -> alarmando vibracao no 1o estagi",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "93000754065",
+            "Fonte": "Tabela de intervencoes"
+        },
+        "2018-05-10 00:00:00": {
+            "Descricao": "rompimento parafuso bocal de descarga 2o estagio - evento tier 3",
+            "Modo de Falha": "Modelo de Vibracao",
+            "Nota": "91000617583",
+            "Fonte": "Tabela de intervencoes"
+        }
+    },
+    "RS01-SC-302B": {}
+}
